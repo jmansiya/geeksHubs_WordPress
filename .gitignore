@@ -1,0 +1,9 @@
+.terraform
+*.tfstate
+
+1-certificate_manager/.terraform.lock.hcl
+2-vpc/.terraform.lock.hcl
+3-aurora-mysql/.terraform.lock.hcl
+4-ec2/4.1-bastion/.terraform.lock.hcl
+4-ec2/4.3-alb/.terraform.lock.hcl
+4-ec2/4.4-asg_alb/.terraform.lock.hcl
